@@ -1,0 +1,8 @@
+* Dette er et kapittel
+
+dette er litt tekst
+
+* Dette er et kapittel til
+
+Dette er et kodeeksempel:
+: git init
