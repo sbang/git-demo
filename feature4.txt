@@ -1,0 +1,3 @@
+Resten av feature4
+Litt mere tekst
+Bug nr. 2
